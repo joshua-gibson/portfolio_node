@@ -10,5 +10,8 @@
     "express": "^4.16.1"
   },
   "author": "Josh Gibson",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
